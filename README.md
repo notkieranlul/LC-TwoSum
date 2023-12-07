@@ -1,10 +1,6 @@
 # LeetCode - TwoSum Problem
-### Intuition
-First leetcode problem so my first intuition was "help".
 
 ### Approach
-However after reading docs and with help from the guided walkthrough it all started to make sense.
-
 I first started with the two-pass hash table which worked great however I saw this can be improved by just looking back on the hash table to see if the elements complement already exists within there.
 
 Overall I was able to sumbit with the below stats.
